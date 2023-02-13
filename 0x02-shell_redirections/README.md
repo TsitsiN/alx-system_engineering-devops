@@ -5,3 +5,4 @@ Redirections scripts
 3-twofiles - displays contents of 2 files passwd and hosts
 4-lastlines - script Displays the last 10 lines of /etc/passwd
 5-firstlines -Display the first 10 lines of /etc/passwd
+6-third_line -  a script that displays the third line of the file iacta
