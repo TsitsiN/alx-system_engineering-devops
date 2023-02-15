@@ -7,3 +7,4 @@ Redirections scripts
 5-firstlines -Display the first 10 lines of /etc/passwd
 6-third_line -  a script that displays the third line of the file iacta
 7-file - Script creates a specified file
+8-cwd_state - scipt writes the output of ls -la into file ls_cwd_content, creating or overwritting the file accordingly.
