@@ -8,3 +8,5 @@ Redirections scripts
 6-third_line -  a script that displays the third line of the file iacta
 7-file - Script creates a specified file
 8-cwd_state - scipt writes the output of ls -la into file ls_cwd_content, creating or overwritting the file accordingly.
+9-duplicate_last_line - Script tho duplicate the last line of a file
+10-no_more_js - File to find and delete jvascript files
