@@ -10,3 +10,4 @@ Redirections scripts
 8-cwd_state - scipt writes the output of ls -la into file ls_cwd_content, creating or overwritting the file accordingly.
 9-duplicate_last_line - Script tho duplicate the last line of a file
 10-no_more_js - File to find and delete jvascript files
+11-directories - Script that counts directories except current and parent directories
