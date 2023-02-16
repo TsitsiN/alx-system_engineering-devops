@@ -13,3 +13,4 @@ Redirections scripts
 11-directories - Script that counts directories except current and parent directories
 12-newest directories -a script that displays the 10 newest files in the current directory.
 13-unique - unique words script
+14-findthatword - Display lines containing the pattern “root” from the file /etc/passwd
