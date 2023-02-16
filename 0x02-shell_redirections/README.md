@@ -15,3 +15,4 @@ Redirections scripts
 13-unique - unique words script
 14-findthatword - Display lines containing the pattern “root” from the file /etc/passwd
 15-countthatword
+16-whatsnext - displays the lines containing the pattern root
