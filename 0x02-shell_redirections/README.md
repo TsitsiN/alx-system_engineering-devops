@@ -17,3 +17,4 @@ Redirections scripts
 15-countthatword
 16-whatsnext - displays the lines containing the pattern root
 17-hidethisword - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
+18-letteronly
