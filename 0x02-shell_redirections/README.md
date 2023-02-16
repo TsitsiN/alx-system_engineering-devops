@@ -11,3 +11,4 @@ Redirections scripts
 9-duplicate_last_line - Script tho duplicate the last line of a file
 10-no_more_js - File to find and delete jvascript files
 11-directories - Script that counts directories except current and parent directories
+12-newest directories -a script that displays the 10 newest files in the current directory.
