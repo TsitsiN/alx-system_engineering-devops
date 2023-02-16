@@ -17,4 +17,5 @@ Redirections scripts
 15-countthatword
 16-whatsnext - displays the lines containing the pattern root
 17-hidethisword - Display all the lines in the file /etc/passwd that do not contain the pattern “bin”
-18-letteronly
+18-letteronly - displays only letters
+19-AZ - Replacing all characters A and c from input z and e
