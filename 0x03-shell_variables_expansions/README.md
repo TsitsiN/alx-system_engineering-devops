@@ -6,3 +6,4 @@
 8-true_knowledge  - prints additions of 128
 9-divide_and_rule - power and divide variables
 10-love_exponent_breath
+11-binary_to_decimal
