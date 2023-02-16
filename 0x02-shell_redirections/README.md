@@ -12,3 +12,4 @@ Redirections scripts
 10-no_more_js - File to find and delete jvascript files
 11-directories - Script that counts directories except current and parent directories
 12-newest directories -a script that displays the 10 newest files in the current directory.
+13-unique - unique words script
