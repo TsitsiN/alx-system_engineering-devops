@@ -8,3 +8,4 @@
 10-love_exponent_breath
 11-binary_to_decimal
 12-combinations -  script that prints all possible combinations of two letters, except oo
+13-print_float -  two decimal places, followed by a new line script
